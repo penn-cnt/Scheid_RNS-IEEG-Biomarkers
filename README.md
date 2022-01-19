@@ -1,12 +1,13 @@
 # Scheid_RNS-IEEG-Biomarkers
 Tools for biomarker analysis and figure generation used in the following publication: 
 
-Scheid BH, Bernabei JM, Khambhati AN, Mouchtaris S, Jeschke J, Bassett DS, et al. Intracranial electroencephalographic biomarker predicts effective responsive neurostimulation for epilepsy prior to treatment. Epilepsia. 2022 Jan 7;epi.17163. 
+Scheid BH, Bernabei JM, Khambhati AN, Mouchtaris S, Jeschke J, Bassett DS, et al. Intracranial electroencephalographic biomarker predicts effective responsive neurostimulation for epilepsy prior to treatment. Epilepsia. 2022 Jan 7; DOI: https://doi.org/10.1111/epi.17163 
 
 ### Requirements
-- Matlab >= 2018a
-- User account on [ieeg.org](http://ieeg.org)
-- [ieeg cli](https://bitbucket.org/ieeg/ieeg/wiki/cli.md)
+- MATLAB >= 2018a
+- MATLAB [Statistics and Machine Learning Toolbox](https://www.mathworks.com/products/statistics.html)
+- User account on http://ieeg.org
+- ieeg command line interface ([ieeg cli](https://bitbucket.org/ieeg/ieeg/wiki/cli.md))
 
 ### Data Access
 * Create an account on ieeg.org
