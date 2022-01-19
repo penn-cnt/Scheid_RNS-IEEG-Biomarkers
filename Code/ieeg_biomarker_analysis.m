@@ -12,8 +12,8 @@
 %
 % Gather Data:
 %  * Create an account on ieeg.org
-%  * Download the ieeg cli (https://bitbucket.org/ieeg/ieeg/wiki/Downloads#IEEG_CLI.md)
-%  * Add 'ieeg' to your path as a link to ieeg.bin (usually added as /usr/bin/ieeg.bin) 
+%  * Download the ieeg cli (https://bitbucket.org/ieeg/ieeg/wiki/cli.md)
+%  * Add 'ieeg' to your path as a link to ieeg.bin (usually added as /usr/local/bin/ieeg-cli-1.xx.xx/ieeg) 
 %  * Use the following commands to access the data
 %       * ieeg download-rec-objects --dataset UCSF_Biomarkers_Data UCSF_shared.mat
 %       * ieeg download-rec-objects --dataset NYU_Biomarkers_Data NYU_shared.mat
